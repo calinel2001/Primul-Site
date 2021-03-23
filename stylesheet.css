@@ -101,7 +101,7 @@ header a:hover {
     min-height: 400px;
     display: flex;
     flex-wrap: wrap;
-    background: url("/images/photo-1555066931-4365d14bab8c.jfif") no-repeat 0 -400px;
+    background: url("images/photo-1555066931-4365d14bab8c.jfif") no-repeat 0 -400px;
     background-size: 100%;
     text-align: center;
     color: white;
