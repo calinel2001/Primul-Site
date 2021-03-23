@@ -64,6 +64,11 @@ header li {
     padding: 0 20px 0 20px;
 }
 
+.titlupaginadespre:hover{
+    font-size:bold;
+   transform:scale(1.1);
+}
+
 header #design {
     float: left;
 }
