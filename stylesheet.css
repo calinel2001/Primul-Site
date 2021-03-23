@@ -19,6 +19,12 @@ ul {
     margin: 0;
 }
 
+
+
+.ceva {
+    text-decoration: none;
+}
+
 .button1 {
     height: 38px;
     background: rgb(218, 4, 147);
