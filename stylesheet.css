@@ -64,10 +64,9 @@ header li {
     padding: 0 20px 0 20px;
 }
 
-.titlupaginadespre:hover{
-    font-size:bold;
-   transform:scale(1.1);
-    color:rgb(243, 9, 113);
+
+.titlupaginadespre:hover {
+    color: rgb(255, 8, 181);
 }
 
 header #design {
