@@ -139,7 +139,7 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background-image: url(laptop.png);
+    background-image: url(images/laptop.png);
     background-position: center;
     background-size: cover;
     text-align: center;
